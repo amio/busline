@@ -1,0 +1,19 @@
+{
+  "name": "busline",
+  "version": "1.0.0",
+  "description": "WIP",
+  "repository": "amio/busline",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro -p 3030",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Amio <amio.cn@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "micro": "^6.2.0",
+    "url": "^0.11.0"
+  }
+}
