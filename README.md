@@ -1,11 +1,12 @@
 # busline
 
-Public bus line api.
+Public (Shanghai) bus line api.
 
 # Usage
 
 ```
-https://busline.now.sh/state?city=zh-sh&line=765
+https://busline.now.sh/sh/line?line=765
+https://busline.now.sh/sh/stop?line=765&stop=5&direction=0
 ```
 
 # License
