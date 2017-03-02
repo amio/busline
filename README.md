@@ -1,5 +1,7 @@
 # busline
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amio/busline.svg)](https://greenkeeper.io/)
+
 Public (Shanghai) bus line api.
 
 # Usage
